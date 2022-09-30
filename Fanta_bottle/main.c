@@ -5,7 +5,7 @@ int main(){
     // DECLARING VARIABLES WE SHALL BE USING IN OUR PROGRAM
     char T[1]; //We shall assign our bottle top a character variable called "T"
     char N[2]; //The neck takes a character variable named "N"
-    char b[3]; //The body takes a character variable named "N"
+    char b[3]; //The body takes a character variable named "b"
     char text[18] = "Fanta Bottle in C";
 
     // GO DOWN 6 LINES FROM THE TOP
